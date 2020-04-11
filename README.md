@@ -7,7 +7,7 @@ MIDAS draws on recent advances in deep learning to deliver a fast, scalable, and
 Installation
 ------------
 
-To install via pip, input the following command into the terminal:  
+To install MIDAS via pip, input the following command into the terminal:  
 `pip install git+https://github.com/Oracen/MIDAS.git`
 
 
